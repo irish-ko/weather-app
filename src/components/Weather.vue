@@ -54,28 +54,13 @@
         overflow:hidden;
         color: #7D7D7D;
     }
-    /*input.inpCity::after{*/
-    /*content:'';*/
-    /*display:inline-block;*/
-    /*box-sizing:border-box;*/
-    /*width:100%;*/
-    /*height:2px;*/
-    /*background:rgb(230,235,235);*/
-    /*border:10px solid red;*/
-
-    /*}*/
     .butt{
         width: 264px;
         height: 60px;
         background: #000AFF;
         border-radius: 4px;
-        /*font-family: Open Sans;*/
-        /*font-style: normal;*/
-        /*font-weight: 600;*/
         font-size: 18px;
         line-height: 25px;
-
-        /* identical to box height */
         text-align: center;
         color: #FFFFFF;
     }

@@ -5,7 +5,6 @@ import store from './store'
 
 Vue.config.productionTip = false;
 
-// console.log(store.getters.getShow);
 
 router.beforeEach((to, from, next) => {
     if (to.name !== 'Home' && !store.getters.getShow){

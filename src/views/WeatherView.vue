@@ -11,7 +11,6 @@
         data(){
             return {
                 weather: null,
-                // weather: this.getParam(),
             }
 
         },
@@ -29,13 +28,11 @@
             }
         },
         created(){
-            // console.log(this.$store.getters.getShow)
             if (!this.$store.getters.getShow){
                 this.$router.push({ path: '/'});
                 return;
             }
             this.weather = this.$store.getters.getWeatherCity.weather;
-            // console.log('a|||||||||||||'+this.weather)
         },
     }
 </script>

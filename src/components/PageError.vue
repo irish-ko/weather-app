@@ -35,13 +35,8 @@
         height: 60px;
         background: linear-gradient(161deg, rgba(74, 87, 132, 0.34) 0%, rgba(163, 159, 93, 0.67) 100%);
         border-radius: 4px;
-        /*font-family: Open Sans;*/
-        /*font-style: normal;*/
-        /*font-weight: 600;*/
         font-size: 18px;
         line-height: 25px;
-
-        /* identical to box height */
         text-align: center;
         color: #000000;
     }

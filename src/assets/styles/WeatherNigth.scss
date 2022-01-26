@@ -2,9 +2,7 @@ h2,p{
     margin:0;
 }
 body{
-    
-    //height: 1224px;
-    //background: linear-gradient(329.82deg, #071D65 18.38%, #05174F 81.62%);
+
 }
     .container{
         font-family: Open Sans;
@@ -14,16 +12,10 @@ body{
         color: #FFFFFF;
         margin:0;
         background: linear-gradient(329.82deg, #071D65 18.38%, #05174F 81.62%);
-        //margin-top: 100px;
-        //width:610px;
         height: 100vh;
         align-items: center;
         justify-content: space-evenly;
         .weather{
-            //vertical-align: central;
-            //justify-content: center;
-            //margin: auto auto;
-            //margin-top: 100px;
             width: 610px;
             height: 560px;
             box-sizing: border-box;
@@ -70,7 +62,7 @@ body{
                         height:180px;
                         width:209px;
                     }
-                    //
+
                 }
             }
             .weather-additions{
@@ -80,12 +72,11 @@ body{
                 width: 570px;
                 display:flex;
                 justify-content:space-between;
-                //
+
                 background: rgba(66, 120, 201, 0.14);
                 .weather-aditions-icons{
                     display:flex;
                     flex-direction:column;
-                    //text-align:rigth;
                     img:first-child{
                         width:14px;
                         height:19.5px;
@@ -105,7 +96,6 @@ body{
                     flex-direction:column;
                     text-align:left;
                     margin-left:-170px;
-                    // pading-left:20px;
                     .weather-aditions-titles-item:first-child{
                         margin-top:32px;
                     }

@@ -99,13 +99,3 @@
         background: linear-gradient(180deg, #74C5FF 0%, #A4DEFF 100%) !important;
     }
 </style>
-
-<!--<style  scoped lang="scss">-->
-    <!--/*@import "@/assets/styles/WeatherDay";*/-->
-    <!--.conteiner{-->
-        <!--background: linear-gradient(180deg, #72BEFF 0%, #B6E3FF 100%);-->
-        <!--.weather {-->
-            <!--background: linear-gradient(180deg, #74C5FF 0%, #A4DEFF 100%);-->
-        <!--}-->
-    <!--}-->
-<!--</style>-->
